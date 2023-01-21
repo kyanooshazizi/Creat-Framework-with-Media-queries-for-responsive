@@ -1,0 +1,86 @@
+@import "resposive.css";
+.menu li {
+    display: inline;
+    padding: 15px;
+}
+
+.menu {
+    padding: 15px;
+}
+
+.nav {
+    background-color: rgb(207, 249, 161);
+    padding: 15px;
+}
+
+.menu {
+    background-color: rgb(251, 219, 180);
+    border-radius: 10px;
+}
+
+
+/* header */
+
+.header {
+    background-image: url("./img/Gold\ Pattern\ wallpapers\ HD\ free\ \ \ 571860.jpg");
+    width: 100%;
+    min-height: 150px;
+    margin-top: 7px;
+    background-size: contain;
+    border-radius: 8px;
+}
+
+.cart-header {
+    border-bottom: 1px solid rgb(220, 202, 202);
+    box-shadow: -3px 3px 7px 0px #f2d6d6;
+    margin-bottom: 2px;
+    background-color: rgb(222, 250, 250);
+}
+
+.cart {
+    border: 1px solid rgb(210, 246, 207);
+    margin-bottom: 15px;
+}
+
+.cart-body {
+    background-color: rgb(192, 251, 197);
+}
+
+.imagcart {
+    border: 1px solid rgb(197, 197, 197);
+    margin: 3px;
+    box-shadow: -2px 3px 20px 0px #c1d0f9;
+}
+
+.imagcart:hover {
+    box-shadow: -2px 3px 5px 0px #c1d0f9;
+    background-color: rgba(248, 248, 249, 0.952);
+    width: 95%;
+}
+
+.imagcart-body img {
+    width: 100%;
+}
+
+.imagcart-footer {
+    text-align: center;
+    padding: 5px;
+    font-size: 16px;
+    color: rgb(118, 105, 105);
+}
+
+footer {
+    background-color: rgb(84, 84, 255);
+    margin-bottom: 5px;
+}
+
+.cart-fotter ul,
+h5 {
+    text-align: center;
+    width: 30%;
+}
+
+.cart-fotter h5 {
+    color: white;
+    border-bottom: 1px solid rgb(251, 248, 248);
+}
